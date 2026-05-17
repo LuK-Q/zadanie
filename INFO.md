@@ -6,3 +6,8 @@ Projekt ma na celu zaliczyć laboratorium 06. PRzedstawia użycie podstawowych k
 ## Lista autorów:
 1. Łukasz Młynek
 2. Jan Janowski
+
+## LINK: https://github.com/LuK-Q/zadanie
+
+### Ignorowane pliki:
+1. sekret.txt
